@@ -6,7 +6,7 @@ Seja bem-vindo! Este site foi desenvolvido ao longo do treinamento DecoCamp 04/2
 [Site com parâmentro para campanhas](https://deco-sites-anadecocamp.deno.dev?utm_campaign=summer_sale).
 <div style="display: flex; justify-content: center; width: 100%">
 <img width="600px" 
-    src="https://drive.google.com/file/d/1ibOa2zHKzlSEfG-mXzI-s-h9XBmDvnyz" />
+    src="https://github.com/deco-sites/anadecocamp/blob/main/static/favicon-16x16.png?raw=true" />
 </div>
 
 
@@ -23,8 +23,8 @@ Seja bem-vindo! Este site foi desenvolvido ao longo do treinamento DecoCamp 04/2
 
 ## Páginas:
 <ul>
-  <li>[Quem Somos](https://deco-sites-anadecocamp.deno.dev/quem-somos)</li>
-  <li>[Culturas](https://deco-sites-anadecocamp.deno.dev/culturas)</li>
-  <li>[Carrinho](https://deco-sites-anadecocamp.deno.dev/cart)</li>
-  <li>[Teste](https://deco-sites-anadecocamp.deno.dev/test)</li>
+  <li> [Quem Somos](https://deco-sites-anadecocamp.deno.dev/quem-somos) </li>
+  <li> [Culturas](https://deco-sites-anadecocamp.deno.dev/culturas) </li>
+  <li> [Carrinho](https://deco-sites-anadecocamp.deno.dev/cart) </li>
+  <li> [Teste](https://deco-sites-anadecocamp.deno.dev/test) </li>
 </ul>
